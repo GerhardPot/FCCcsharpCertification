@@ -1,3 +1,6 @@
+# Last Update
+I finished it. Proof: https://www.freecodecamp.org/certification/GPot/foundational-c-sharp-with-microsoft
+
 # FCCcsharpCertification
 This is where I will do the freeCodeCamp and Microsoft C# Certification
 
